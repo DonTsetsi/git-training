@@ -7,3 +7,6 @@ def Blah
 
 	def reset()
 		message = "Hello from the other side"
+		
+	def del()
+		message = null
