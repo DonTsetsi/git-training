@@ -11,4 +11,3 @@ def Blah
 	def delete()
 		message = null
 
-//pffff
